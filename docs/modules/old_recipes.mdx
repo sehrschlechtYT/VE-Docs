@@ -1,0 +1,33 @@
+---
+title: Old recipes
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+Allows players to use old recipes that were removed from minecraft.
+## Recipe:
+
+<Tabs>
+    <TabItem value="enchGoldenApple" label="Enchanted Golden Apple Recipe" default>
+        <img src={require('/img/old_recipes_enchanted_golden_apple.png').default} alt="Recipe" />
+    </TabItem>
+    <TabItem value="oldGoldenApple" label="Old Golden Apple Recipe" default>
+        <img src={require('/img/old_recipes_golden_apple.png').default} alt="Recipe" />
+    </TabItem>
+    <TabItem value="horseArmor" label="Horse Armor Recipes" default>
+        <img src={require('/img/old_recipes_leather_horse_armor.png').default} alt="Recipe" />
+        <img src={require('/img/old_recipes_iron_horse_armor.png').default} alt="Recipe" /><br/>
+        <img src={require('/img/old_recipes_golden_horse_armor.png').default} alt="Recipe" /> 
+        <img src={require('/img/old_recipes_diamond_horse_armor.png').default} alt="Recipe" />
+    </TabItem>
+</Tabs>
+
+## Config options
+
+| Option key                         | Description                                                     | Type      | Default value | Possible values |
+|------------------------------------|-----------------------------------------------------------------|-----------|---------------|-----------------|
+| `old_recipes.enabled`     | Controls if the recipes will be registered                      | `Boolean` | `false`       | `true/false`    |
+| `old_recipes.enchantedGoldenAppleRecipe` | Controls if the enchanted golden apple crafting recipe will be registered | `Boolean` | `false`        | `true/false`    |
+| `old_recipes.oldGoldenAppleRecipe` | Controls if the old golden apple crafting recipe will be registered | `Boolean` | `false`        | `true/false`    |
+| `old_recipes.horseArmorRecipes` | Controls if the horse armor crafting recipes will be registered | `Boolean` | `false`        | `true/false`    |
