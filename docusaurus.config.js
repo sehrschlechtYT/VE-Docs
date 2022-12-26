@@ -91,6 +91,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [
+      [
+        require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        language: "en",
+        indexPages: false,
+        indexDocs: true
+      },
+      ]
+    ],
 };
 
 module.exports = config;
