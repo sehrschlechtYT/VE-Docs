@@ -1,6 +1,8 @@
 ---
 title: Craft slabs to blocks
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to craft two slabs to a block.
 ## Recipe:
 ![The Recipe](/img/craft_slabs_to_blocks.png)

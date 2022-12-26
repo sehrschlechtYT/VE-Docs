@@ -1,6 +1,8 @@
 ---
 title: Craft coal to black dye
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to craft black dye using coal or charcoal.
 ## Recipe:
 ![The Recipe](/img/craft_coal_to_black_dye_coal.png)

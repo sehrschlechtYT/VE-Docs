@@ -1,6 +1,8 @@
 ---
 title: Craft stairs to blocks
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to craft stairs to blocks.
 ## Recipe:
 ![The Recipe](/img/craft_stairs_to_blocks.png)

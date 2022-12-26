@@ -1,6 +1,8 @@
 ---
 title: Dye sand
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to craft red sand from sand and vice versa.
 ## Recipe:
 ![The Recipe](/img/dye_sand_red.png)

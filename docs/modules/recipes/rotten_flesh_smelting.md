@@ -1,6 +1,8 @@
 ---
 title: Rotten flesh smelting
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to smelt rotten flesh to leather.
 ## Recipe:
 ![The Recipe](/img/rotten_flesh_smelting.png)

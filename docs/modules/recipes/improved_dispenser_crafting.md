@@ -1,6 +1,8 @@
 ---
 title: Improved dispenser crafting
 ---
+[Source](https://vanillatweaks.net)
+
 Allows players to craft dispensers simpler.
 ## Recipe:
 ![The Recipe](/img/improved_dispenser_crafting_bow.png)
