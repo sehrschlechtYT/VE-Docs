@@ -74,7 +74,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          
+          {
+            title: 'Support',
+            items: [
+              {
+                label: 'Discord server',
+                to: 'https://discord.gg/crHgFwH2Gt',
+              }
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} sehrschlechtYT.<br>Built with Docusaurus.`,
       },
