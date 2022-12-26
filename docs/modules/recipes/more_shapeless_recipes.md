@@ -3,6 +3,9 @@ title: More shapeless recipes
 ---
 [Source](https://vanillatweaks.net)
 # More shapeless recipes
+
+Makes some items craftable in the 2x2 crafting window.
+
 ![Bread recipe](/img/shapeless_bread.png)
 ![Paper recipe](/img/shapeless_paper.png)
 ![Shulker chest recipe](/img/shapeless_shulker_chest.png)
