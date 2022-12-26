@@ -97,7 +97,8 @@ const config = {
       {
         language: "en",
         indexPages: false,
-        indexDocs: true
+        indexDocs: true,
+        indexBlog: false,
       },
       ]
     ],
