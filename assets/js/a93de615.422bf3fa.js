@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkve_docs=self.webpackChunkve_docs||[]).push([[298],{2180:e=>{e.exports=JSON.parse('{"title":"Modules","slug":"/category/modules","permalink":"/VE-Docs/docs/category/modules","navigation":{"previous":{"title":"Modules","permalink":"/VE-Docs/docs/api/modules"},"next":{"title":"Behaviour","permalink":"/VE-Docs/docs/category/behaviour"}}}')}}]);
